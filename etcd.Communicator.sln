@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etcd.Communicator", "etcd.Communicator\etcd.Communicator.csproj", "{129FBCE8-0A8B-4123-A643-B8765FE8C830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etcd.DataContracts", "etcd.DataContracts\etcd.DataContracts.csproj", "{AE11EDBF-953E-4688-8481-657345F320C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etcd.Client", "etcd.Client\etcd.Client.csproj", "{C4C06368-1F98-4690-8232-5208160CA58C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129FBCE8-0A8B-4123-A643-B8765FE8C830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129FBCE8-0A8B-4123-A643-B8765FE8C830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129FBCE8-0A8B-4123-A643-B8765FE8C830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129FBCE8-0A8B-4123-A643-B8765FE8C830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE11EDBF-953E-4688-8481-657345F320C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE11EDBF-953E-4688-8481-657345F320C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE11EDBF-953E-4688-8481-657345F320C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE11EDBF-953E-4688-8481-657345F320C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C06368-1F98-4690-8232-5208160CA58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C06368-1F98-4690-8232-5208160CA58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C06368-1F98-4690-8232-5208160CA58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C06368-1F98-4690-8232-5208160CA58C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
